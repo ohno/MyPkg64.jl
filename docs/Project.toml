@@ -1,0 +1,6 @@
+[deps]
+MyPkg64 = "ac9fdc1c-8c98-4779-96e6-7716cbb63713"
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+
+[compat]
+Documenter = "1"
